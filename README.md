@@ -22,19 +22,21 @@ Personal blog ini dibuat dengan menggunakan template dari [Nurriyad Blog](https:
 ## Preview
 <p align="center">
   <a href="https://anggi.dev" target="_blank">
-    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview1.png">
-    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview2.png">
-    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview3.png">
-    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview4.png">
-    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview5.png">
+    <img width="1090" src="./assets/images/Preview1.png">
+    <img width="1090" src="./assets/images/Preview2.png">
+    <img width="1090" src="./assets/images/Preview3.png">
+    <img width="1090" src="./assets/images/Preview4.png">
+    <img width="1090" src="./assets/images/Preview5.png">
     <br>
   </a>
 </p>
 
 ## Live Demo
-
+<p align="center">
 [Anggi.dev](https://anggi.dev)
 Dihosting di [Vercel](https://vercel.com/)
+</p>
+
 
 ## Install di Local
 **Membutuhkan Node Js Versi 16 keatas**
