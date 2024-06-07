@@ -23,19 +23,21 @@ Personal blog ini dibuat dengan menggunakan template dari [Nurriyad Blog](https:
 <p align="center">
   <a href="https://anggi.dev" target="_blank">
     <img width="1090" src="./assets/images/Preview1.png">
+    <br>
     <img width="1090" src="./assets/images/Preview2.png">
+    <br>
     <img width="1090" src="./assets/images/Preview3.png">
+    <br>
     <img width="1090" src="./assets/images/Preview4.png">
+    <br>
     <img width="1090" src="./assets/images/Preview5.png">
     <br>
   </a>
 </p>
 
 ## Live Demo
-<p align="center">
 [Anggi.dev](https://anggi.dev)
 Dihosting di [Vercel](https://vercel.com/)
-</p>
 
 
 ## Install di Local
