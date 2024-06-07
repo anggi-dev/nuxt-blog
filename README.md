@@ -22,6 +22,7 @@ Personal blog ini dibuat dengan menggunakan template dari [Nurriyad Blog](https:
 ## Preview
 <p align="center">
   <a href="https://anggi.dev" target="_blank">
+  <a href='https://postimg.cc/N9WkyJ8G' target='_blank'><img src='https://i.postimg.cc/N9WkyJ8G/Preview1.png' border='0' alt='Preview1'/></a>
     <img width="1090" src="./assets/images/preview1.png">
     <img width="1090" src="./assets/images/preview2.png">
     <img width="1090" src="./assets/images/preview3.png">
