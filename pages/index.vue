@@ -12,7 +12,7 @@ useHead({
 })
 
 // Generate OG Image
-defineOgImageComponent('Tentang Saya', {
+defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: 'Anggi Blog',
   description: 'Berbagi Seputar Teknologi dan Linux',
