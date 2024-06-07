@@ -22,12 +22,11 @@ Personal blog ini dibuat dengan menggunakan template dari [Nurriyad Blog](https:
 ## Preview
 <p align="center">
   <a href="https://anggi.dev" target="_blank">
-  <a href='https://postimg.cc/N9WkyJ8G' target='_blank'><img src='https://i.postimg.cc/N9WkyJ8G/Preview1.png' border='0' alt='Preview1'/></a>
-    <img width="1090" src="./assets/images/preview1.png">
-    <img width="1090" src="./assets/images/preview2.png">
-    <img width="1090" src="./assets/images/preview3.png">
-    <img width="1090" src="./assets/images/preview4.png">
-    <img width="1090" src="./assets/images/preview5.png">
+    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview1.png">
+    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview2.png">
+    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview3.png">
+    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview4.png">
+    <img width="1090" src="https://github.com/anggi-dev/nuxt-blog/blob/main/assets/images/Preview5.png">
     <br>
   </a>
 </p>
