@@ -30,5 +30,8 @@
     "nuxt-simple-sitemap": "^4.2.0",
     "typescript": "^5.3.3",
     "vue-content-loader": "^2.0.1"
+  },
+  "dependencies": {
+    "nuxt-umami": "^2.6.2"
   }
 }

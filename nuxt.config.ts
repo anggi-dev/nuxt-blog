@@ -56,6 +56,13 @@ export default defineNuxtConfig({
     '@stefanobartoletti/nuxt-social-share',
   ],
 
+  extends: ['nuxt-umami'],
+  appConfig: {
+    umami: {
+
+    },
+  },
+
   content: {
     highlight: {
       theme: 'dracula',
