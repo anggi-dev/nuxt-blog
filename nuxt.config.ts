@@ -54,6 +54,7 @@ export default defineNuxtConfig({
     'nuxt-simple-sitemap',
     '@nuxtjs/tailwindcss',
     '@stefanobartoletti/nuxt-social-share',
+    '@nuxtjs/google-gtag',
   ],
 
   extends: ['nuxt-umami'],
