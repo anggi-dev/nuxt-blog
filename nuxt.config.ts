@@ -59,7 +59,7 @@ export default defineNuxtConfig({
   extends: ['nuxt-umami'],
   appConfig: {
     umami: {
-
+      trackerUrl: 'https://cloud.umami.is/script.js', siteId: 'f0ca3d38-726c-41b9-b2fb-b5f7b27ab91a',
     },
   },
 
