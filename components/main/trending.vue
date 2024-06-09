@@ -26,7 +26,7 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Blog Seputar Teknologi dan Linux',
+        'Welcome To My Blog Site. Dapatkan informasi seputar Web Development, Teknologi Terbaru, serta Linux',
     },
   ],
   titleTemplate: 'Anggi Dev Blog - %s',
