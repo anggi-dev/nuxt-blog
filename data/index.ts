@@ -29,13 +29,13 @@ export const aboutPage = {
   description: 'Freelancer, Software Engineer',
   aboutMe: '"Perkenalkan, saya Anggi Nuraziz. Sebagai seorang software engineer dan profesional freelance, saya berfokus pada pengembangan web. Dengan pengalaman dan semangat kreatif saya, saya siap untuk membantu mewujudkan proyek-proyek Anda menjadi kenyataan."',
 }
-
+// Berisi data SEO yang ditampilkan
 export const seoData = {
-  description: 'Anggi, seorang software engineer dan profesional freelance',
-  ogTitle: 'Sharing Informasi seputar Web Development, Teknologi Terbaru, serta Linux',
-  twitterDescription: 'Sharing Informasi seputar Web Development, Teknologi Terbaru, serta Linux',
+  description: 'Anggi Dev Blog menyediakan informasi seputar Web Development, Teknologi Terbaru, serta Ekosistem Linux ',
+  ogTitle: 'Sharing Informasi seputar Web Development, Teknologi Terbaru, serta Ekosistem Linux',
+  twitterDescription: 'Sharing Informasi seputar Web Development, Teknologi Terbaru, serta Ekosistem Linux',
   image: 'https://mega.nz/file/zmQURA7A#rIk_lkfmutkOO7ePy4mN6cC1gjoLQXxfcM99W7le3Kk',
-  mySite: 'https://anggidev.vercel.app/',
+  mySite: 'https://anggi.dev/',
 }
 
 export const siteMetaData = [

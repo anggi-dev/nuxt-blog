@@ -54,6 +54,7 @@ export default defineNuxtConfig({
     'nuxt-simple-sitemap',
     '@nuxtjs/tailwindcss',
     '@stefanobartoletti/nuxt-social-share',
+    'nuxt-module-feed',
   ],
 
   extends: ['nuxt-umami'],
@@ -67,5 +68,15 @@ export default defineNuxtConfig({
     highlight: {
       theme: 'dracula',
     },
+  },
+
+  feed: {
+    sources: [
+      {
+        path: '/feed.xml', // The route to your feed.
+        type: 'rss2', // Can be: rss2, atom1, json1
+        cacheTime: 60 * 15, // How long should the feed be cached
+      },
+    ],
   },
 })
