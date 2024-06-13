@@ -16,7 +16,7 @@ const path = computed(() => route.fullPath.replace('/', ''))
 
       <div class="border-t dark:border-gray-800 mt-5 text-center p-2">
         © 2023-2024 Anggi Dev. Thanks for the custom template!
-        <a href="https://blog.nurriyad.xyz/" target="_blank" rel="nofollow" class="underline">Nurriyad Blog</a>
+        <a alt="Link Template" href="https://blog.nurriyad.xyz/" target="_blank" rel="nofollow" class="underline">Nurriyad Blog</a>
         .
       </div>
     </div>

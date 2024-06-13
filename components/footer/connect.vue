@@ -13,9 +13,10 @@ import { footerData } from '~/data'
 
     <a
       href="mailto: anggidev97@gmail.com"
+      alt="Kirim Email"
       class="block text-center w-full bg-sky-700 p-2 rounded-lg text-[#F1F2F4]  mt-3 text-sm"
     >
-      Sent Mail
+      Kirim Email
     </a>
   </div>
 </template>
